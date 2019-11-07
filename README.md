@@ -1,6 +1,6 @@
 # GACapstone_Eurovision_Data
 
-How the voting system works?
+# How the voting system works?
 After viewers have cast their votes by telephone, SMS or using the official app, each national spokesperson from the participating countries will be called in to present the points of their professional jury.
 
 After the presentation of the scores from the juries, the televoting points from all participating countries will be combined, providing one score for each song. These televoting results will then be announced by the presenters.
